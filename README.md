@@ -2,6 +2,9 @@
 
 **ExpenseEase** is a Personal Expense Management System (PEMS) that helps users track their income and expenses over time. The system provides analytics, statistics, and reports to help users manage their finances more effectively.
 
+### ExpenseEase SRS file: 
+<a href ="[http://greenovation-site.s3-website.ap-south-1.amazonaws.com/](https://drive.google.com/file/d/17QHbfgkLFuQaFb526BmnGP4sABA9vxed/view?usp=sharing)" target="_blank">Green-Commerce </a>
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
