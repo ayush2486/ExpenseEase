@@ -9,10 +9,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 ExpenseEase is designed to provide users with a comprehensive platform to manage their personal finances. With features like user authentication, expense management, transaction management, and detailed analytics, ExpenseEase aims to simplify personal financial management for its users.
@@ -28,9 +24,3 @@ ExpenseEase is designed to provide users with a comprehensive platform to manage
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Other**: Chart.js for analytics visualizations
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ExpenseEase.git
