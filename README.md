@@ -1,2 +1,33 @@
 # ExpenseEase
-ExpenseEase is a user-friendly Personal Expense Management System (PEMS) that helps users track and manage their income and expenses. It offers intuitive features for logging expenses, viewing transactions, and generating insightful financial analytics and reports, making it easier to manage personal finances effectively.
+
+**ExpenseEase** is a Personal Expense Management System (PEMS) that helps users track their income and expenses over time. The system provides analytics, statistics, and reports to help users manage their finances more effectively.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+ExpenseEase is designed to provide users with a comprehensive platform to manage their personal finances. With features like user authentication, expense management, transaction management, and detailed analytics, ExpenseEase aims to simplify personal financial management for its users.
+
+## Features
+- **User Authentication**: Register, log in, and manage user accounts.
+- **Expense Management**: Add, edit, and delete daily expenses, categorize them, and include details like date and time.
+- **Transaction Management**: View, edit, and delete transactions.
+- **Analytics**: Generate and view various analytics, such as total transaction analysis, turnover analysis, and category-based analysis.
+
+## Tech Stack
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Other**: Chart.js for analytics visualizations
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ExpenseEase.git
